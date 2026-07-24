@@ -4,8 +4,7 @@ I spent 5 years building business-critical automation for the Renault Group
 (Microsoft Power Platform, Dataverse, complex approval/governance workflows)
 before deciding to go deep on the current generation of AI systems: RAG,
 agentic architectures, and knowledge graphs. This profile is the evidence of
-that transition — five projects, each with a real technical reason to exist,
-not tutorial clones.
+that transition — five projects, each with a real technical reason to exist.
 
 **Currently**: finishing an M.Sc. in Intelligent Systems, and pursuing
 Microsoft's AI Engineer Associate certification (AI-103).

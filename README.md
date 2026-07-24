@@ -11,32 +11,29 @@ Microsoft's AI Engineer Associate certification (AI-103).
 
 ---
 
-#### 🧠 [vaultmind](https://github.com/vancea98/vaultmind)
+#### [vaultmind](https://github.com/vancea98/vaultmind)
 An Obsidian vault knowledge-graph explorer that surfaces "implicit
 connections" — note pairs that share an LLM-extracted entity but were never
 manually linked, something Obsidian's own graph view structurally can't do.
-Includes a live model-switcher for swapping the local LLM per session. Three
-real bugs found and fixed via live-testing, documented honestly rather than
-hidden.
+Includes a live model-switcher for swapping the local LLM per session.
 
-#### 🕸️ [neo4j-graphrag](https://github.com/vancea98/neo4j-graphrag)
-A production-shaped Neo4j GraphRAG service — built specifically after a job
-interview involving Neo4j GraphRAG didn't go well. Vector search + Cypher
+#### [neo4j-graphrag](https://github.com/vancea98/neo4j-graphrag)
+A production-shaped Neo4j GraphRAG service — Vector search + Cypher
 graph traversal + GDS community detection, behind FastAPI and Docker
-Compose. This is that gap, closed.
+Compose.
 
-#### 📊 [rag-failure-bench](https://github.com/vancea98/rag-failure-bench)
+#### [rag-failure-bench](https://github.com/vancea98/rag-failure-bench)
 Measures the "RAG has 5 classic failure modes" claim empirically against
 SQuAD 2.0, instead of taking it on faith — quantified before/after deltas
-per fix, not anecdotes.
+per fix.
 
-#### 📘 [rag-playbook](https://github.com/vancea98/rag-playbook)
+#### [rag-playbook](https://github.com/vancea98/rag-playbook)
 A modular, config-driven production RAG template covering the full current
 technique set (contextual retrieval, late chunking, agentic RAG, GraphRAG,
 multimodal) — 15 Architecture Decision Records documenting every non-obvious
 design call.
 
-#### 💬 [rag-chat](https://github.com/vancea98/rag-chat)
+#### [rag-chat](https://github.com/vancea98/rag-chat)
 The deliberately simple baseline everything else in this portfolio is
 measured against: plain retrieve → generate, no fixes, readable start to
 finish in minutes.
